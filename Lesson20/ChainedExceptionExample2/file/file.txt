@@ -1,0 +1,2 @@
+this file is for testing the final block in chainedExceptionExample package
+Hello world
